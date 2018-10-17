@@ -1,9 +1,0 @@
-[user]
-	name = Jose Manuel Sánchez Suárez
-	email = jmsanchez@autentia.com
-
-[color]
-	status = auto
-	branch = auto
-	diff = auto
-	interactive = auto
